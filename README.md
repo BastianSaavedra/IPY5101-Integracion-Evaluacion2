@@ -1,4 +1,4 @@
-# IPY5101-Integracion-Evaluacion2
+# Integracion de MercadoPago con PHP y XAMMP
 
 Integración a una pasarela de pagos.
 
